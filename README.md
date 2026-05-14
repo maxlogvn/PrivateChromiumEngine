@@ -12,11 +12,8 @@ Thư viện điều khiển trình duyệt Chromium chống bot detection, tích
 npm install fingerprint-chromium-engine
 ```
 
-> **Lưu ý:** Thư viện yêu cầu `playwright-core` là peer dependency. Nếu dự án chưa có, cần cài thêm:
->
-> ```bash
-> npm install playwright-core
-> ```
+> **Lưu ý:** Thư viện yêu cầu `playwright-core` là peer dependency.
+> Nếu dự án chưa có, cần cài thêm:[microsoft/playwright](https://github.com/microsoft/playwright)
 >
 
 ---

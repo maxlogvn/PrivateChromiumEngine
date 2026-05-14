@@ -1,6 +1,6 @@
 {
   "name": "fingerprint-chromium-engine",
-  "version": "0.1.0-dev.20260514025732",
+  "version": "0.1.0-dev.20260514030057",
   "type": "module",
   "license": "MIT",
   "description": "Native Chromium anti-detect engine for Playwright with real-device fingerprint injection, proxy synchronization and persistent browser profiles.",
