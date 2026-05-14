@@ -1,6 +1,6 @@
 {
   "name": "fingerprint-chromium-engine",
-  "version": "0.1.0-dev.20260514013220",
+  "version": "0.1.0-dev.20260514023725",
   "type": "module",
   "license": "MIT",
   "description": "Native Chromium anti-detect engine for Playwright with real-device fingerprint injection, proxy synchronization and persistent browser profiles.",
@@ -24,10 +24,6 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/maxlogvn/PrivateChromiumEngine.git"
-  },
-  "homepage": "https://github.com/maxlogvn/PrivateChromiumEngine",
-  "bugs": {
-    "url": "https://github.com/maxlogvn/PrivateChromiumEngine/issues"
   },
   "keywords": [
     "chromium",
