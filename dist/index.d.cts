@@ -515,6 +515,7 @@ interface PWChromium {
      * })
      */
     useProfile(dirPath: string, options?: object): this;
+    newFingerprint(options: FetchOptions): Promise<string | undefined>;
     /**
      * Khởi tạo engine với toàn bộ cấu hình đã thiết lập.
      *
