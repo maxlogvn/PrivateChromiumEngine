@@ -418,7 +418,7 @@ type Launcher = Pick<BrowserType, 'launch' | 'launchPersistentContext'>;
  * const context = await browser.newContext();
  * await browser.quit();
  */
-declare const Chromium: () => PWChromium;
+declare const Chromium: PWChromium;
 
 /**
  * Interface điều khiển trình duyệt Chromium với hỗ trợ fingerprint, proxy và profile.
